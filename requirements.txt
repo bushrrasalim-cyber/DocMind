@@ -1,0 +1,5 @@
+openai
+llama-index
+streamlit
+python-dotenv
+pypdf
