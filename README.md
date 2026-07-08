@@ -1,0 +1,1 @@
+In DocMind you can upload any pdf and ask questions it will give you the answers from that particular pdf
